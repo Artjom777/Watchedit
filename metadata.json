@@ -1,0 +1,6 @@
+{
+  "name": "WatchFace Studio",
+  "description": "Smartwatch Watchface Creator for Redmi & Mi Band series with real-time preview, layer editor, custom fonts, and export to downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
